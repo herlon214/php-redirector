@@ -1,0 +1,12 @@
+{
+  "name": "herlon214/php-redirector",
+  "description": "PHP Class that get the last url (redirect) from a given URL",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Herlon Aguiar",
+      "email": "herlon214@gmail.com"
+    }
+  ]
+}
